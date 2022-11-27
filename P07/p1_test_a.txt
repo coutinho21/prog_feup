@@ -1,0 +1,8 @@
+Pseudo-code for this exercise
+
+open the file                                
+initialise a counter to 0
+while string read does not fail               
+  if string read equals word (case insensitive) being searched  
+    increment the counter
+return the value of the counter
